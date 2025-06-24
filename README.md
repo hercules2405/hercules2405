@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin Nair</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFzM2wyc29nY240b3F0YjhpMWZtend5OWxnYm82M2x3Z3RhZG0zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="Welcome GIF" width="40%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlvemVjZjJlNjUycWFsbXdwZXMzY2JkYmJqN2lwbHpoaXFneTBsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome GIF" width="60%" />
 </p>
 
 ---
